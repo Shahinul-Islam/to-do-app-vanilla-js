@@ -1,0 +1,16 @@
+.li-property {
+  display: inline-block;
+  padding: 0 10px;
+  max-width: 70%;
+  margin-bottom: 30px;
+}
+
+.btn-style {
+  color: #fff;
+  padding: 7px 15px;
+  margin: 0 15px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 30px;
+  font-weight: 600;
+}
